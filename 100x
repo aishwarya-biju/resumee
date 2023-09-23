@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+     body{
+        font-family:Times New Roman;
+
+    }
+     HEADER{
+        text-align: center;
+    }
+    .section{
+        margin:20px;
+    }
+    </style>
+</head>
+<body>
+     <header>
+        <h1> AISHWARYA BIJU</h1>
+        <p>
+            <a href="aishwarya@gmail.com">Email</a>
+            <a href="829937013">Contact</a>
+            <a href="https://www.linkedin.com/in/aishwarya-biju-86474a217">Linkedin</a>
+        </p>
+     </header>
+     <SECTION>
+        <H2>EDUCATION</H2>
+        <UL>
+            <LI><H4>SVM PUBLIC SCHOOL</H4>
+            <i>(10th and 12th)</i>
+            <i>Jaipur,Rajasthan</i></LI>
+            <li>
+            <H4>ST.XAVIER'S COLLEGE Jaipur</H4>
+            <i>BCA 3rd year Jaipur,Rajasthan</i>
+            </li>
+            <h4>100x Engineers</h4>
+            <i>fullstack developer</i>
+            </UL>
+     </SECTION>
+     <section>
+        <h4> Languages</h4>
+        <ul>
+            <li>English</li>
+            <li>Hindi</li>
+            <li>Malayalam</li>
+        </ul>
+     </section>
+     <section>
+        <h2>SOFT SKILLS</h2>
+        <UL>
+            <LI>Communication</LI>
+        <li>Management</li>
+        <li>Leadership</li>
+        <li>Problem Solving</li>
+        </UL>
+     </section>
+     <SECTION>
+        <UL>
+            <H4>TECHINCAL SKILLS</H4>
+            <LI>PYTHON</LI>
+            <LI>C</LI>
+            <LI>C++</LI>
+            <LI>MySQL</LI>
+            <LI>HTML</LI>
+            <LI>CSS</LI>
+            <LI>Javascript</LI>
+            <li>figma</li>
+            <li>Adobe Photoshop</li>
+            <li>Adobe Illustrator</li>
+            <li>Canva</li>
+        </UL>
+     </SECTION>
+</body>
+
+</html>
